@@ -1,3 +1,3 @@
 # scaling-giggle
 
-## Practicing how to use git and github
+## Practising how to use git and github
